@@ -1,0 +1,15 @@
+
+label, input {
+       display: block;
+       margin-top: 10px;
+   }
+
+form {
+       border: 1px rgb(119, 62, 254) solid;
+       width: 400px;
+       padding: 25px;
+       background-color: lightgrey;
+       font-size: 18px;
+   }
+
+
